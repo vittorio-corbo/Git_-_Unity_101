@@ -4,7 +4,7 @@ How to use Git and Unity with a group of Game Makers
 ## Part 1: Account Setup
 I love pizza
 
-## Part 2: Install Software
+## Part 2: Install and Setup Software
 I love piziza
 
 ## Part 3: Setup Project to work with Github
