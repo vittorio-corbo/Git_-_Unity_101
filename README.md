@@ -46,8 +46,8 @@ Explain what we doing here
            * Language: The default Language for Unity Editor will be English. If you need additional language options, you can add whatever Language Packs that you are more comfortable working with.
            * Documentation: This is highly recommended as it aids you in navigating through the Unity Editor and scripting C#.
            * Visual Studio Community: Visual Studio Community Edition is recommended for code editing IDE.
-                * If you choose Visual Studio to be your default script editor yet it is not integrated correctly, visit this site for more instructions: https://docs.unity3d.com/Manual/VisualStudioIntegration.html
-                * When you install Visual Studio, you want to have Tools for Unity Visual Studio Extension, check the box in the “Workloads” tab when installing
+             *  If you choose Visual Studio to be your default script editor yet it is not integrated correctly, visit this site for more instructions: https://docs.unity3d.com/Manual/VisualStudioIntegration.html
+             * When you install Visual Studio, you want to have Tools for Unity Visual Studio Extension, check the box in the “Workloads” tab when installing
                    ![vs](images/vs_code.png)
 
 
