@@ -30,8 +30,10 @@ Explain what we doing here
       * Note: While the engine can be downloaded without hubs, this isn’t recommended. Hubs allows the managing of different versions of the Unity engine. If you still want to download the engine by itself you can learn more at: https://docs.unity3d.com/Manual/ManualActivationGuide.html
    2. [Install Unity hub](https://unity.com/download)
       * Note: While the engine can be downloaded without hubs, this isn’t recommended. Hubs allows the managing of different versions of the Unity engine. If you still want to download the engine by itself you can learn more at: https://docs.unity3d.com/Manual/ManualActivationGuide.html
-2. [Install Git](https://desktop.github.com/)
-   * Obttain a liscen
+2. Install Git
+   * [Install Git Desktop](https://desktop.github.com/)
+       *This is more beginner-friendly as it provides you with an intuitive interface on how to use Git features if you are not familiar with writing commands manually.
+   * [Install Git Bash](https://git-scm.com/downloads) Alternatively you can do this
 
 
 ## Part 3: Setup Project to work with Github
