@@ -26,8 +26,10 @@ You can continue with a personal license while waiting for approval.
 ## Part 2: Install and Setup Software
 Explain what we doing here
 1. Install Unity
-   1. [Install Unity hub](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
-      * Note: the engine can be downloaded without hubs, but this isn’t recommended, as hubs allow the regulation of engines of different versions in one place. If you want to download the engine by itself you can learn more at: https://docs.unity3d.com/Manual/ManualActivationGuide.html
+   1. [Install Unity hub](https://unity.com/download)
+      * Note: While the engine can be downloaded without hubs, this isn’t recommended. Hubs allows the managing of different versions of the Unity engine. If you still want to download the engine by itself you can learn more at: https://docs.unity3d.com/Manual/ManualActivationGuide.html
+   2. [Install Unity hub](https://unity.com/download)
+      * Note: While the engine can be downloaded without hubs, this isn’t recommended. Hubs allows the managing of different versions of the Unity engine. If you still want to download the engine by itself you can learn more at: https://docs.unity3d.com/Manual/ManualActivationGuide.html
 2. [Install Git](https://desktop.github.com/)
    * Obttain a liscen
 
