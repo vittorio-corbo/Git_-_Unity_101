@@ -13,11 +13,9 @@ How to use Git and Unity with a group of Game Makers
 
 ## Part 1: Account Setup
 In here we will create accounts all the prerequisite software necessary to work.
-* Create Github account
-  * [pizza](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
- 
-* Create Unity Account
-*   
+* 1. [Create Github Account](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
+* 2. [Create Unity Account](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
+  
 ## Part 2: Install and Setup Software
 I love piziza
 
