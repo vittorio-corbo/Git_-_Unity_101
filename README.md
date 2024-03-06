@@ -87,13 +87,13 @@ Before we can create games, we need to create our project in Unity, and then lin
                 * Fun Note: this entire document you are reading is a READ.ME
         4. PUSH
 3. Working on Someone else's project
-   1. Collaborator
+   1. [Collaborator](https://www.geeksforgeeks.org/what-are-github-collaborators/)
         * Why have collaborators? Collaborators are people who have the same access to a repo as you do (mostly). You should only have collaborators if these are people you trust personally, and are members who should have write and read privileges to the repository.
-        * https://www.geeksforgeeks.org/what-are-github-collaborators/
-   2. Not a collaborator
+
+   2. [Not a collaborator](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
         * FORKING
         * Why have forking? If you are working on a project where you want to take charge of what is being changed to your repository, you should have forking. This allows people on the internet to see
-        * https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+      
 
 
 
