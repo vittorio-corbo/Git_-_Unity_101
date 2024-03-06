@@ -93,9 +93,9 @@ Before we can create games, we need to create our project in Unity, and then lin
    2. [Not a collaborator](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
         * FORKING
         * Why have forking? If you are working on a project where you want to take charge of what is being changed to your repository, you should have forking. This allows people on the internet to see
+
       
-
-
-
 ## Part 4: How to work in the project
-I love piziza
+Now that everything has been setup, this section will show you will operate within your working environment. Moreover, some good practices that will save you many a headache.
+If you are using git bash, you can still follow these instructions, but the specific ways to do this will be in the following link
+
