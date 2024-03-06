@@ -22,10 +22,11 @@ In here we will create accounts all the prerequisite software necessary to work.
    
 ## Part 2: Install and Setup Software
 Explain what we doing here
-1. [Create Github Account](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
-   1. What is Git? When you make software you want to sa
-   2. asfd
-2. [Create Unity Account](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
+1. Install Unity
+   1. [Install Unity hub](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
+     * Note: the engine can be downloaded without hubs, but this isn’t recommended, as hubs allow the regulation of engines of different versions in one place. If you want to download the engine by itself you can learn more at: https://docs.unity3d.com/Manual/ManualActivationGuide.html
+2. [Install Git](https://desktop.github.com/)
+   2. Obttain a liscen
    * What is Unity? bla bla blabla bl.
 
 ## Part 3: Setup Project to work with Github
