@@ -17,11 +17,16 @@ Explain in broad terms what we are doing here
 In here we will create accounts all the prerequisite software necessary to work.
 1. [Create Github Account](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
    * What is Git? When you make software you want to save versions of it. Whether it is a new feature or an old version. That is why you use version control like git. Thanks to some black magic it will save every version of the project, and you can switch to any version from the cloud.
-3. [Create Unity Account](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
+2. [Create Unity Account](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
    * What is Unity? bla bla blabla bl.
    
 ## Part 2: Install and Setup Software
-I love piziza
+Explain what we doing here
+1. [Create Github Account](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
+   1. What is Git? When you make software you want to sa
+   2. asfd
+2. [Create Unity Account](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
+   * What is Unity? bla bla blabla bl.
 
 ## Part 3: Setup Project to work with Github
 I love piziza
