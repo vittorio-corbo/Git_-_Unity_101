@@ -64,9 +64,9 @@ To be able to make games collaborative we will need to create all the software n
 Before we can create games, we need to create our project in Unity, and then link it to a version of it in Github.
 1. Creating a New Unity Project (if you are starting from scratch)
    1. Within Unity Hub, click “New project”
-      ![vs](images/vs_code.png)
+      ![new_projectt](new_project.png)
    2. Select an editor version that you have installed to develop this project. 
-      ![vs](images/vs_code.png)
+      ![projct_version](images/proj_version.png)
    3. In the middle scroll-down menu, choose a template that you wish to start on.
       ![vs](images/vs_code.png)
    4. On the right side, configure your project settings. Once finished, click “Create project”.
