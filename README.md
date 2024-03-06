@@ -16,9 +16,12 @@ Explain in broad terms what we are doing here
 ## Part 1: Account Setup
 In here we will create accounts all the prerequisite software necessary to work.
 1. [Create Github Account](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
-   * What is Git? When you make software you want to save versions of it. Whether it is a new feature or an old version. That is why you use version control like git. Thanks to some black magic it will save every version of the project, and you can switch to any version from the cloud.
+   * What is Git? Git is essential for software development, offering a version control system that tracks changes and allows for easy reversion to previous states. It allows seamless collaboration among developers by providing each one with a complete history and files of the project, stored in a decentralized repository thanks to black magic.
 2. [Create Unity Account](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
-   * What is Unity? bla bla blabla bl.
+   * What is Unity? Unity is a well-known game engine that can make 2D, 3D, and VR games.
+   * Obtain a License: A default personal license should be sufficient. However, consider getting a student license if you are qualified.
+     * Learn more about eligibility and benefits of the Unity Student Plan here: https://unity.com/products/unity-student
+You can continue with a personal license while waiting for approval.
    
 ## Part 2: Install and Setup Software
 Explain what we doing here
