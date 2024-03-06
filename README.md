@@ -85,7 +85,8 @@ Before we can create games, we need to create our project in Unity, and then lin
             * If you are working with others this is a MUST
             * If you want to go all out writing a nice readme look here to see how to write an effective README: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
                 * Fun Note: this entire document you are reading is a READ.ME
-        4. PUSH
+        4. git add origin
+        5. Push
 3. Working on Someone else's project
    1. [Collaborator](https://www.geeksforgeeks.org/what-are-github-collaborators/)
         * Why have collaborators? Collaborators are people who have the same access to a repo as you do (mostly). You should only have collaborators if these are people you trust personally, and are members who should have write and read privileges to the repository.
