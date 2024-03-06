@@ -3,7 +3,7 @@ How to use Git and Unity with a group of Game Makers
 
 Table of contents
 
-[Pizza](https://github.com/hillaryfraley/jobbriefings#daily-briefing](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-2-install-and-setup-software)
+[Pizza](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-2-install-and-setup-software)
 
 ## Part 1: Account Setup
 I love pizza
