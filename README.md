@@ -55,7 +55,7 @@ Explain what we doing here
 
 2. Install Git
    * [Install Git Desktop](https://desktop.github.com/)
-       *This is more beginner-friendly as it provides you with an intuitive interface on how to use Git features if you are not familiar with writing commands manually.
+       * This is more beginner-friendly as it provides you with an intuitive interface on how to use Git features if you are not familiar with writing commands manually.
    * [Install Git Bash](https://git-scm.com/downloads) Alternatively you can do this
 3. Install Visual Studio
    REST THIS STUFF IS OTHER SHIZ
