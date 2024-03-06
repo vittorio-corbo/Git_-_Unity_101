@@ -100,3 +100,23 @@ Now that everything has been setup, this section will show you will operate with
 
 Note: If you are using git bash, you can still follow these instructions, but the specific ways to do this will be in the following link
 
+Git Normal
+1. Pull the latest version
+     * (Fork it maybe)
+     * Git clone
+     * DO THIS FOR BOTH GIT BASH AND DESKTOP (if not choose one)
+2. Do not work on the same scene!
+     * Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
+     * It is recommended that each teammate should create their own version of the main scene and work on it. A good file management practice is to name your unique scene file with your name. For example: VittoMainScene
+3. Merge Conflict
+     * If merge conflicts happen in a C# script that is manually coded, approach it with this guide: https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/
+     * When Unity Scene files merge conflict does happen, the easiest approach would be to only keep one version of the scene file and remove all other changes.
+
+[Git Bash](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+
+
+Pull Requests.
+
+
+
+THE END
