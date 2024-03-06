@@ -97,5 +97,6 @@ Before we can create games, we need to create our project in Unity, and then lin
       
 ## Part 4: How to work in the project
 Now that everything has been setup, this section will show you will operate within your working environment. Moreover, some good practices that will save you many a headache.
-If you are using git bash, you can still follow these instructions, but the specific ways to do this will be in the following link
+
+Note: If you are using git bash, you can still follow these instructions, but the specific ways to do this will be in the following link
 
