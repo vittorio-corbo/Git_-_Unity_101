@@ -27,6 +27,7 @@ You can continue with a personal license while waiting for approval.
 Explain what we doing here
 1. Install Unity
    1. [Install Unity hub](https://unity.com/download)
+      ![unity_download](images/download_unity.png)
       * Unity Hub is your one stop shop which houses your installations of the Unity Engine. Which allows you to change your version of Unity depending on the projct version you are working on.
       * Note: While the engine can be downloaded without hubs, this isn’t recommended. If you still want to download the engine by itself you can learn more at: https://docs.unity3d.com/Manual/ManualActivationGuide.html
    3. Install a Unity Version
