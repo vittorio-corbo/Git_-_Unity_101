@@ -48,7 +48,7 @@ Explain what we doing here
            4. Visual Studio Community: Visual Studio Community Edition is recommended for code editing IDE.
                 1. If you choose Visual Studio to be your default script editor yet it is not integrated correctly, visit this site for more instructions: https://docs.unity3d.com/Manual/VisualStudioIntegration.html
                 2. When you install Visual Studio, you want to have Tools for Unity Visual Studio Extension, check the box in the “Workloads” tab when installing
-                   PUT IAMGE
+                   ![vs](images/vs_code.png)
 
 
             
