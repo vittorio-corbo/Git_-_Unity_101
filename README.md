@@ -24,7 +24,7 @@ In here we will create accounts all the prerequisite software necessary to work.
 You can continue with a personal license while waiting for approval.
    
 ## Part 2: Install and Setup Software
-Explain what we doing here
+To be able to make games collaborative we will need to create all the software necessary to do so. This means: installing a game engine (unity), a version control (github), and a way to write code (visual studio).
 1. Install Unity
    1. [Install Unity hub](https://unity.com/download)
       ![unity_download](images/download_unity.png)
