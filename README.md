@@ -35,10 +35,10 @@ Explain what we doing here
       ![download_unity_ver](images/download_hubs.png)
          
       3. Choose a version depending on projects and features, LTS (Long Time Support) versions are recommended for stability.
-           1. Install the version corresponding to the project you are in. Everyone within the same project should use the same version of the Unity Engine.
+           i. Install the version corresponding to the project you are in. Everyone within the same project should use the same version of the Unity Engine.
                 * Note that sometimes the required version of the specific project might not be shown in the pop-up menu on your Unity Hub. In that case, you may need to click the “download archive” option under the “Archive” tab. This will lead you to find the right versions you need.
                   ![unity_editor](images/unity_editor.png)
-           3. If you are choosing your own version of the Unity Engine for the project, it is recommended to choose an LTS version.
+           ii. If you are choosing your own version of the Unity Engine for the project, it is recommended to choose an LTS version.
                 * Funny Note:  follow the rule of Three F. If it has a 3 in the second digit and an f. For example: 2022.3.xxfx. These versions will also have tags to indicate they are LTS versions.
       4. In the Add Modules pop-up page (These are additive things you can attach to Unity, which allows you to have new languages, Vr, or other stuff)
            1. Build support: Add any platform build supports based on your operating system & your audience's operating system. For example:
