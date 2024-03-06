@@ -34,20 +34,20 @@ Explain what we doing here
       1. In the Unity Hub, go to the “Installs” tab on the left. Click “Install Editor” option.
       ![download_unity_ver](images/download_hubs.png)
          
-      3. Choose a version depending on projects and features, LTS (Long Time Support) versions are recommended for stability.
-           1. Install the version corresponding to the project you are in. Everyone within the same project should use the same version of the Unity Engine.
+      2. Choose a version depending on projects and features, LTS (Long Time Support) versions are recommended for stability.
+           * Install the version corresponding to the project you are in. Everyone within the same project should use the same version of the Unity Engine.
                 * Note that sometimes the required version of the specific project might not be shown in the pop-up menu on your Unity Hub. In that case, you may need to click the “download archive” option under the “Archive” tab. This will lead you to find the right versions you need.
                   ![unity_editor](images/unity_editor.png)
-           2. If you are choosing your own version of the Unity Engine for the project, it is recommended to choose an LTS version.
-           3. Funny Note:  follow the rule of Three F. If it has a 3 in the second digit and an f. For example: 2022.3.xxfx. These versions will also have tags to indicate they are LTS versions.
+           * If you are choosing your own version of the Unity Engine for the project, it is recommended to choose an LTS version.
+           * Funny Note:  follow the rule of Three F. If it has a 3 in the second digit and an f. For example: 2022.3.xxfx. These versions will also have tags to indicate they are LTS versions.
       4. In the Add Modules pop-up page (These are additive things you can attach to Unity, which allows you to have new languages, Vr, or other stuff)
-           1. Build support: Add any platform build supports based on your operating system & your audience's operating system. For example:
+           * Build support: Add any platform build supports based on your operating system & your audience's operating system. For example:
                 * If you are making computer games that will function on Windows and Mac systems, you check the boxes for Windows Build Support and Mac Build Support (select both IL2CPP and Mono variants unless only one option is present on your platform).
-           2. Language: The default Language for Unity Editor will be English. If you need additional language options, you can add whatever Language Packs that you are more comfortable working with.
-           3. Documentation: This is highly recommended as it aids you in navigating through the Unity Editor and scripting C#.
-           4. Visual Studio Community: Visual Studio Community Edition is recommended for code editing IDE.
-                1. If you choose Visual Studio to be your default script editor yet it is not integrated correctly, visit this site for more instructions: https://docs.unity3d.com/Manual/VisualStudioIntegration.html
-                2. When you install Visual Studio, you want to have Tools for Unity Visual Studio Extension, check the box in the “Workloads” tab when installing
+           * Language: The default Language for Unity Editor will be English. If you need additional language options, you can add whatever Language Packs that you are more comfortable working with.
+           * Documentation: This is highly recommended as it aids you in navigating through the Unity Editor and scripting C#.
+           * Visual Studio Community: Visual Studio Community Edition is recommended for code editing IDE.
+                * If you choose Visual Studio to be your default script editor yet it is not integrated correctly, visit this site for more instructions: https://docs.unity3d.com/Manual/VisualStudioIntegration.html
+                * When you install Visual Studio, you want to have Tools for Unity Visual Studio Extension, check the box in the “Workloads” tab when installing
                    ![vs](images/vs_code.png)
 
 
