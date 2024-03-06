@@ -74,18 +74,18 @@ Before we can create games, we need to create our project in Unity, and then lin
          
 2. Hooking up a Unity Project to Github
    1. [Creating a repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
-        * Set repo visibility:
+        1. Set repo visibility:
             * Private: A private repository is visible only to the repository owner, and to any users or organizations the owner has granted access. This means that the source code, issues, and any other repository data are hidden from anyone not explicitly permitted to view or contribute. Private repositories are ideal for work on personal projects or anything that is not ready to be shared.
             * Public: Public repositories are accessible to anyone on the internet. This means that anyone can see the source code, clone the repository, and submit issues or pull requests. This is great for open-source projects and community collaboration.
-        * Add: .gitignore 
+        2. Add: .gitignore 
             * Unity generates temporary files, builds assets, log files, and other project files that shouldn't be included in version control. Including these files in Git can significantly increase the size of your repository and lead to conflicts when several developers work on the same project. To prevent Git from tracking these files, you can add a .gitignore file to your project directory, instructing Git to ignore them.
-        * Optional: add README. The README file in a project acts as the first point of information for anyone who encounters the project, offering an overview of what the project is about, how to install and use it, and any other relevant details that you wish your audience to know.
+        3. Optional: add README. The README file in a project acts as the first point of information for anyone who encounters the project, offering an overview of what the project is about, how to install and use it, and any other relevant details that you wish your audience to know.
 
             * PUT WHICH VERSION OF THE ENGINE YOU ARE USING.
             * If you are working with others this is a MUST
             * If you want to go all out writing a nice readme look here to see how to write an effective README: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
                 * Fun Note: this entire document you are reading is a READ.ME
-        * PUSH
+        4. PUSH
 ADSF
    3. Select an editor version that you have installed to develop this project. 
       ![vs](images/vs_code.png)
