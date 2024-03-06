@@ -14,8 +14,8 @@ How to use Git and Unity with a group of Game Makers
 ## Part 1: Account Setup
 In here we will create accounts all the prerequisite software necessary to work.
 * Our
-  * 1. pizza
-  * 2. pizza
+  * pizza
+  * pizza
  
 * Create Unity Account
 *   
