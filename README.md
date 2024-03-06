@@ -31,7 +31,7 @@ Explain what we doing here
       * Note: While the engine can be downloaded without hubs, this isn’t recommended. If you still want to download the engine by itself you can learn more at: https://docs.unity3d.com/Manual/ManualActivationGuide.html
    3. Install a Unity Version
       1. In the Unity Hub, go to the “Installs” tab on the left. Click “Install Editor” option.
-      * ![skylei logo](screenshots/skylei_logo.png)
+      ![skylei logo](images/pizza.jpg)
          
       3. Choose a version depending on projects and features, LTS (Long Time Support) versions are recommended for stability.
            1. Install the version corresponding to the project you are in. Everyone within the same project should use the same version of the Unity Engine.
