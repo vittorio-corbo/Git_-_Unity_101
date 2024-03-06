@@ -60,7 +60,7 @@ Explain what we doing here
      * This is the alternative and harder version of managing version control. This is NOT recommended for beginners. If you have experience with working from the terminal you can use this.
 
 3. [Install Visual Studio](https://visualstudio.microsoft.com/downloads/)
-   * Note: You do not have to do this if you Installed Visual Studio in the previous step.
+   * Note: You do not have to do this if you Installed Visual Studio in the (Add Modules Step). If you didn't you can install it and connect it here.
    * Install Tools for Unity Visual Studio Extension, integrate Visual Studio to Unity, and set it as the default editor. (Link it back to the earlier instructions)
 
 ## Part 3: Setup Project to work with Github
