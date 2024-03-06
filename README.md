@@ -28,7 +28,7 @@ Explain what we doing here
 1. Install Unity
    1. [Install Unity hub](https://unity.com/download)
       ![unity_download](images/download_unity.png)
-      * Unity Hub is your one stop shop which houses your installations of the Unity Engine. Which allows you to change your version of Unity depending on the projct version you are working on.
+      * Unity Hub is your one stop shop which houses your installations of the Unity Engine. Which allows you to change your version of Unity depending on the project version you are working on.
       * Note: While the engine can be downloaded without hubs, this isn’t recommended. If you still want to download the engine by itself you can learn more at: https://docs.unity3d.com/Manual/ManualActivationGuide.html
    3. Install a Unity Version
       1. In the Unity Hub, go to the “Installs” tab on the left. Click “Install Editor” option.
@@ -37,6 +37,7 @@ Explain what we doing here
       3. Choose a version depending on projects and features, LTS (Long Time Support) versions are recommended for stability.
            1. Install the version corresponding to the project you are in. Everyone within the same project should use the same version of the Unity Engine.
                 * Note that sometimes the required version of the specific project might not be shown in the pop-up menu on your Unity Hub. In that case, you may need to click the “download archive” option under the “Archive” tab. This will lead you to find the right versions you need.
+                  ![unity_editor](images/unity_editor.png)
            3. If you are choosing your own version of the Unity Engine for the project, it is recommended to choose an LTS version.
                 * Funny Note:  follow the rule of Three F. If it has a 3 in the second digit and an f. For example: 2022.3.xxfx. These versions will also have tags to indicate they are LTS versions.
       4. In the Add Modules pop-up page (These are additive things you can attach to Unity, which allows you to have new languages, Vr, or other stuff)
