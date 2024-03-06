@@ -86,8 +86,7 @@ Before we can create games, we need to create our project in Unity, and then lin
             * If you want to go all out writing a nice readme look here to see how to write an effective README: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
                 * Fun Note: this entire document you are reading is a READ.ME
         4. PUSH
-ADSF
-   3. Select an editor version that you have installed to develop this project. 
+3. Working on Someone else's project
       ![vs](images/vs_code.png)
    4. In the middle scroll-down menu, choose a template that you wish to start on.
       ![vs](images/vs_code.png)
