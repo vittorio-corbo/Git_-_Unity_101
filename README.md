@@ -232,14 +232,24 @@ Now that everything has been set up, this section will show you will operate wit
 Our guide primarily introduces the basics of working on games, whether collaboratively or solo. However, managing a project extends beyond these initial steps. It's crucial to track tasks and maintain communication within your team. Therefore, we encourage you to explore additional resources to elevate your game development journey further.
 
 ## Future Resources
-* Getting to learn the basics of Unity
+Learn about other tools and resources to take your gamemaking abilities to a new level.
+
+**Topics:**
+
+* [A. Getting to learn the basics of Unity](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-hardware)
+
+* [B. Task Management](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#b-create-github-account)
+
+* [C. Communication](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#c-create-unity-account)
+
+### A. Getting to learn the basics of Unity
    * If you are new to Unity and want to learn how to use it, go ahead and start in a classic project.
       * [Roll-a-ball tutorial](https://learn.unity.com/project/roll-a-ball)
-* Task Management
+### B. Task Management
    * You should find a way to organize the work that needs to be done. This is a good way to keep you on schedule and focused. This is even more important when working with others.
       * [Trello](https://trello.com/)
       * [Taiga](https://taiga.io/)
-* Communication
+### C. Communication
    * Having a way to communicate with your team is crucial for game development. Having an official channel for communication, puts all your information pertaining your game in one place.
    * [Discord](https://www.ionos.com/digitalguide/server/know-how/how-to-set-up-a-discord-server/)
 
