@@ -188,9 +188,9 @@ Now that everything has been set up, this section will show you will operate wit
 
 **Topics:**
 
-* [A. How to Git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-creating-a-new-unity-project-if-you-are-starting-from-scratch)
+* [A. How to Git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-how-to-git)
 
-* [B. How to work in Unity with Git ](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#b-hooking-up-a-unity-project-to-github)
+* [B. How to work in Unity with Git ](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#b-how-to-work-in-unity-with-git)
 
 ### A. How to Git
   * While extremely important we will not go in-depth on how to use git here. Here are some good guides depending in how you operate Git.
@@ -240,7 +240,6 @@ Now that everything has been set up, this section will show you will operate wit
 
   5. Builds
      * Make sure they are in .gitignore and you do not push it. 
-
 
 
 
