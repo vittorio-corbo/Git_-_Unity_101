@@ -183,16 +183,15 @@ Our guide primarily introduces the basics of working on games, whether collabora
 
 ## Future Resources
 * Getting to learn the basics of Unity
-If you are new to Unity and want to learn how to use it, go ahead and start in a classic project.
-Roll-a-ball tutorial - https://learn.unity.com/project/roll-a-ball
-Task Management
-You should find a way to organize the work that needs to be done. This is a good way to keep you on schedule and focused. This is even more important when working with others.
-Trello https://trello.com/
-https://trello.com/guide
-Taiga https://taiga.io/
-Communication
-Having a way to communicate with your team is crucial for game development. Having an official channel for communication, puts all your information pertaining your game in one place.
-Discord https://www.ionos.com/digitalguide/server/know-how/how-to-set-up-a-discord-server/
+   * If you are new to Unity and want to learn how to use it, go ahead and start in a classic project.
+      * [Roll-a-ball tutorial](https://learn.unity.com/project/roll-a-ball)
+* Task Management
+   * You should find a way to organize the work that needs to be done. This is a good way to keep you on schedule and focused. This is even more important when working with others.
+      * [Trello](https://trello.com/)
+      * [Taiga](https://taiga.io/)
+* Communication
+   * Having a way to communicate with your team is crucial for game development. Having an official channel for communication, puts all your information pertaining your game in one place.
+   * [Discord](https://www.ionos.com/digitalguide/server/know-how/how-to-set-up-a-discord-server/)
 
 
 
