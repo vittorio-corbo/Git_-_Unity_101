@@ -67,7 +67,7 @@ To be able to make games collaborative we will need to create all the software n
            * **Visual Studio Community**: Visual Studio Community Edition is recommended for code editing IDE.
              *  If you choose Visual Studio to be your default script editor yet it is not integrated correctly, visit this site for more instructions: https://docs.unity3d.com/Manual/VisualStudioIntegration.html
              * When you install Visual Studio, you want to have Tools for Unity Visual Studio Extension, check the box in the “Workloads” tab when installing
-                   ![vs](images/vs_code.png)
+                   ![vs](images/list_proj.png)
 
 2. Install Git
    * [Install Git Desktop](https://desktop.github.com/)
