@@ -146,28 +146,34 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/workin
 
       
 ## Part 4: How to work in the project
-Now that everything has been setup, this section will show you will operate within your working environment. Moreover, some good practices that will save you many a headache.
+Now that everything has been set up, this section will show you will operate within your working environment. Moreover, some good practices that will save you many headaches.
 
-Note: If you are using git bash, you can still follow these instructions, but the specific ways to do this will be in the following link
-
-Git Normal
-1. Pull the latest version
+1. How to Git
      * (Fork it maybe)
      * Git clone
      * DO THIS FOR BOTH GIT BASH AND DESKTOP (if not choose one)
-2. Do not work on the same scene!
-     * Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
-     * It is recommended that each teammate should create their own version of the main scene and work on it. A good file management practice is to name your unique scene file with your name. For example: VittoMainScene
+2. How to work in Unity with Git 
+     1. Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
+     2. It is recommended that each teammate should create their own version of the main scene and work on it. A good file management practice is to name your unique scene file with your name. For example: VittoMainScene
+     3. adsf
+     4. asdf
+     5. asdf
+     6. Builds
+        * Make sure they are in .gitignore and you do not push it. 
+
 3. Merge Conflict
      * If merge conflicts happen in a C# script that is manually coded, approach it with this guide: https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/
      * When Unity Scene files merge conflict does happen, the easiest approach would be to only keep one version of the scene file and remove all other changes.
 
 [Git Bash](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
+Note: If you are using git bash, you can still follow these instructions, but the specific ways to do this will be in the following link
+
+Git Normal
 
 
 ## Conclusion
-pizza
+Our guide primarily introduces the basics of working on games, whether collaboratively or solo. However, managing a project extends beyond these initial steps. It's crucial to track tasks and maintain communication within your team. Therefore, we encourage you to explore additional resources to elevate your game development journey further.
 
 ## Future Resources
 pizza
