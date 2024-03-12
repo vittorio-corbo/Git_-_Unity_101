@@ -96,7 +96,7 @@ Before we can create games, we need to create our project in Unity, and then lin
 2. Hooking up a Unity Project to Github
    1. [Creating a repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories) \
       ![3d_cor](images/vitto_repo.png)
-        1.Give it a name & description
+        1. Give it a name & description
             * Naming your repository and providing a description helps others understand the purpose and content of your project at a glance, facilitating easier discovery and collaboration.  
         2. Set repo visibility:
             * **Private**: A private repository is visible only to the repository owner, and to any users or organizations the owner has granted access. This means that the source code, issues, and any other repository data are hidden from anyone not explicitly permitted to view or contribute. Private repositories are ideal for work on personal projects or anything that is not ready to be shared.
