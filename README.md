@@ -14,6 +14,10 @@ How to use Git and Unity with a group of Game Makers.
 
 [Part 4: How to work in the project](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-4-how-to-work-in-the-project)
 
+[Conclusion](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-4-how-to-work-in-the-project)
+
+[Future Resources](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-4-how-to-work-in-the-project)
+
 ## Part 0: Background
 pizza
 
@@ -120,8 +124,12 @@ Git Normal
 [Git Bash](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 
-Pull Requests.
 
+## Conclusion
+pizza
+
+## Future Resources
+pizza
 
 
 THE END
