@@ -4,7 +4,7 @@ Want to make game with others? Want to make games by yourself? Want to keep trac
 
 
 ## Table of Contents
-[Part 0: Background](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-0-background)
+[Background](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-0-background)
 
 [Part 1: Account Setup](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
 
@@ -18,7 +18,7 @@ Want to make game with others? Want to make games by yourself? Want to keep trac
 
 [Future Resources](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#future-resources)
 
-## Part 0: Background
+## Background
 This is an introductory guide for aspiring game developers, especially those who are new to participating in a Video Game Design Club such as [VGDev](https://www.gtvgdev.com/) or making games in general. 
 
 **In this Tutorial we use Unity and Git:**
