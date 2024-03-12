@@ -29,17 +29,17 @@ This is an introductory guide for aspiring game developers, especially those who
 * [B. Why use Git?](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#why-use-git)
 
 
-
-
 ### A. What is Unity?
 
 * Unity is a well-known and highly versatile game engine that can make 2D, 3D, and VR games for various platforms. It is extremely powerful yet has a user-friendly interface and a supportive community for game developers to bring their game vision to life. As a whole, it is one of the most popular game engines, especially for smaller to midsize teams.
 * Alternatives: Unity as a company can cause controversies sometimes. If you want to make a game, also think about other alternatives such as Godot, Unreal, and GameMaker for 2D games. As a whole, each engine has its own use cases, so make sure that you are using the right tool for the job.
     * https://www.brsoftech.com/blog/advantages-and-disadvantages-of-best-game-engines/
     * This is not an exhaustive list, there is a whole ocean of game engines.
+  
 ### B. Why use Git?
 * Git is essential for software development, offering a version control system that tracks changes and allows for easy reversion to previous states. It allows seamless collaboration among developers by providing each one with a complete history and files of the project, stored in a decentralized repository thanks to black magic.
 * Alternatives: there are other types of types of version control, such as Perforce. Each has pros and cons, so just know that you are not stuck with Git. However, git is the most popular version control system among developers.
+
 
 
 ## Part 1: Account Setup
@@ -53,10 +53,10 @@ In here we will create accounts all the prerequisite software necessary to work.
 
 * [C. Create Unity Account](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#why-use-git)
 
-1. Hardware
+### A. Hardware
    * Have a computer powerful enough to run Unity. A good rule of thumb is if you can play a standard computer game in it, it should be fine. [More requirement information](https://docs.unity3d.com/Manual/system-requirements.html)
-3. [Create Github Account](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
-4. [Create Unity Account](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
+### B. [Create Github Account](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
+### C. [Create Unity Account](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
    * Obtain a License: A default personal license should be sufficient. However, consider getting a student license if you are qualified.
       * Learn more about eligibility and benefits of the [Unity Student Plan](https://unity.com/products/unity-student)
       * You can continue with a personal license while waiting for approval.
