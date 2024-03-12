@@ -167,20 +167,22 @@ Now that everything has been set up, this section will show you will operate wit
               * Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
               * It is recommended that each teammate should create their own version of the main scene and work on it. A good file management practice is to name your unique scene file with your name. For example: VittoMainScene
 
-
-     2. How to work in Unity with Git
+     2. While your working
         1. Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
         * asdfadsffff
-     3. While your working
-        * asdfadsffff
+     3. Before you push
+        * Double-check that all the changes, files, or updates you intend to push are accurately staged for the commit.
+        * Discard unnecessary changes to maintain a clean and relevant project history and avoid any unnecessary conflicts.
+        * If you are making scene changes
+           * Ensure that you've saved the updated scene in Unity with ctrl + s. Unity scenes do not automatically save your latest changes.
 
      4. Pushing
         * Merge conflicts when pushing.
-If merge conflicts happen in a C# script that is manually coded, approach it with this guide: https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/
-When Unity Scene files merge conflict does happen, the easiest approach would be to only keep one version of the scene file and remove all other changes.
-Have rules for pull requests is essential in managing a collaborative development environment efficiently and maintaining high-quality code standards.
-Link to Best practices for pull requests:
-https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests
+           * If merge conflicts happen in a C# script that is manually coded, [learn how to resolve them](https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/)
+           * When Unity Scene files merge conflict does happen, the easiest approach would be to only keep one version of the scene file and remove all other changes.
+        * Have rules for pull requests is essential in managing a collaborative development environment efficiently and maintaining high-quality code standards.
+           * [Best practices for pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests)
+
 
      5. Builds
         * Make sure they are in .gitignore and you do not push it. 
