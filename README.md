@@ -154,11 +154,16 @@ Now that everything has been set up, this section will show you will operate wit
      * DO THIS FOR BOTH GIT BASH AND DESKTOP (if not choose one)
 2. How to work in Unity with Git 
      1. Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
-     2. It is recommended that each teammate should create their own version of the main scene and work on it. A good file management practice is to name your unique scene file with your name. For example: VittoMainScene
-     3. adsf
-     4. asdf
+        * asdfadsffff
+     3. It is recommended that each teammate should create their own version of the main scene and work on it. A good file management practice is to name your unique scene file with your name. For example: VittoMainScene
+        * asdfadsffff
+     4. adsf
+        * asdfadsffff
      5. asdf
-     6. Builds
+        * asdfadsffff
+     6. asdf
+        * asdfadsffff
+     7. Builds
         * Make sure they are in .gitignore and you do not push it. 
 
 3. Merge Conflict
