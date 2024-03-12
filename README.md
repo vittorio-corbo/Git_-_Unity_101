@@ -44,6 +44,7 @@ In here we will create accounts all the prerequisite software necessary to work.
    
 ## Part 2: Install and Setup Software
 To be able to make games collaborative we will need to create all the software necessary to do so. This means: installing a game engine (Unity), a version control (Github), and a way to write code (Visual Studio).
+### Install Unity
 1. Install Unity
    1. [Install Unity hub](https://unity.com/download)
       ![unity_download](images/download_unity.png)
@@ -68,7 +69,7 @@ To be able to make games collaborative we will need to create all the software n
              *  If you choose Visual Studio to be your default script editor yet it is not integrated correctly, visit this site for more instructions: https://docs.unity3d.com/Manual/VisualStudioIntegration.html
              * When you install Visual Studio, you want to have Tools for Unity Visual Studio Extension, check the box in the “Workloads” tab when installing
                    ![vs](images/list_proj.png)
-
+## 2. Install Git
 2. Install Git
    * [Install Git Desktop](https://desktop.github.com/)
        * This is more beginner-friendly as it provides you with an intuitive interface on how to use Git features if you are not familiar with writing commands manually. 
