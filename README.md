@@ -133,17 +133,15 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/workin
 
 
 6. Pull the project:
-Note: This step is only relevant when you're working on someone else's project and have checked out step 4.
-Tutorial on how to clone the repository locally 
-Link (can you find it vitto????????????????????????????????)
-https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-
-
-After this you should have the project on your machine
-How to make the project appear in Unity Hub
-In Unity Hub, click the “Add” button
-Locate the folder that contains the project that you just cloned in the pop-up file explorer. Click Open
-Click on the project in Unity Hub to open it. Unity will take a long time to open a project for the first time due to temporary file creation, so be patient.
+   1. **Note**: This step is only relevant when you're working on someone else's project and have checked out step 4.
+   2. [Tutorial on how to clone the repository locally](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+      * After this you should have the project on your machine
+   3. How to make the project appear in Unity Hub
+      1. In Unity Hub, click the “Add” button \
+         ![finish_project](images/ignore2.png)
+      3. Locate the folder that contains the project that you just cloned in the pop-up file explorer. Click Open \
+         ![finish_project](images/ignore2.png)
+      5. Click on the project in Unity Hub to open it. Unity will take a long time to open a project for the first time due to temporary file creation, so be patient.
 
 
       
