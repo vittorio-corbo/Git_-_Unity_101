@@ -131,8 +131,7 @@ Before we can create games, we need to create our project in Unity, and then lin
         * Why have forking? Forking is useful when you want to maintain control over the changes made to your repository. It allows others to view and contribute to your project while giving you the power to review and integrate those changes as you will.
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 
-
-6. Pull the project:
+5. Pull the project:
    1. **Note**: This step is only relevant when you're working on someone else's project and have checked out step 4.
    2. [Tutorial on how to clone the repository locally](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
       * After this you should have the project on your machine
@@ -154,28 +153,33 @@ Now that everything has been set up, this section will show you will operate wit
         * [Git Bash](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
      * **Note**: learning how to use git is impossible, you will always be learning it, so be patient.
 2. How to work in Unity with Git 
-     1. Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
+     1. Before you begin working
+        * Ensure your local repository is up-to-date with the latest changes
+          1. If you're a contributor or owner, directly pull the latest updates.
+          2. For forked projects, first synchronize your online repository with the original's most recent version, then pull the updates to your local repository. \ ![finish_project](images/windows.png)
+          3. Pulling Local merge conflicts
+             * **Stash changes**: Temporarily shelving (or "stashing") changes allows you to save your current work progress without committing it. This is useful for clearing your working directory to pull new changes from the repository, after which you can reapply your stashed changes.
+             * **Discard**: Discarding changes removes any modifications you've made to your working directory that haven't been committed. This is helpful when you want to reset your files to their last committed state, effectively ignoring any recent, uncommitted edits before pulling updates.
+
+     2. How to work in Unity with Git
+        1. Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
         * asdfadsffff
-     3. It is recommended that each teammate should create their own version of the main scene and work on it. A good file management practice is to name your unique scene file with your name. For example: VittoMainScene
+     3. While your working
         * asdfadsffff
-     4. adsf
-        * asdfadsffff
-     5. asdf
-        * asdfadsffff
-     6. asdf
-        * asdfadsffff
-     7. Builds
+
+     4. Pushing
+        * Merge conflicts when pushing.
+If merge conflicts happen in a C# script that is manually coded, approach it with this guide: https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/
+When Unity Scene files merge conflict does happen, the easiest approach would be to only keep one version of the scene file and remove all other changes.
+Have rules for pull requests is essential in managing a collaborative development environment efficiently and maintaining high-quality code standards.
+Link to Best practices for pull requests:
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests
+
+     5. Builds
         * Make sure they are in .gitignore and you do not push it. 
 
-3. Merge Conflict
-     * If merge conflicts happen in a C# script that is manually coded, approach it with this guide: https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/
-     * When Unity Scene files merge conflict does happen, the easiest approach would be to only keep one version of the scene file and remove all other changes.
 
-[Git Bash](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
-Note: If you are using git bash, you can still follow these instructions, but the specific ways to do this will be in the following link
-
-Git Normal
 
 
 ## Conclusion
