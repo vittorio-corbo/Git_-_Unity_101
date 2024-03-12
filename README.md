@@ -105,16 +105,24 @@ Before we can create games, we need to create our project in Unity, and then lin
                * **Privacy Note**: Making it public means there are risks for exposure of sensitive data, unauthorized modifications, and concerns regarding copyrights, so make sure you are ready for this.
 
 
-        3. Add: .gitignore 
+        3. Add README (Optional):
+            * The README file in a project acts as the first point of information for anyone who encounters the project, offering an overview of what the project is about, how to install and use it, and any other relevant details that you wish your audience to know.
+            * PUT WHICH VERSION OF THE ENGINE YOU ARE USING.
+               * If you are working with others this is a MUST, as it reduces you headaches.
+            * If you want to go all out writing a nice readme, learn [how to write markdown files](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) (markdowns are the file format of README's).
+            * **Fun Note**: this entire document you are reading is a README.
+
+
+        5. Add: .gitignore:
             * Unity generates temporary files, builds assets, log files, and other project files that shouldn't be included in version control. Including these files in Git can significantly increase the size of your repository and lead to conflicts when several developers work on the same project. To prevent Git from tracking these files, you can add a .gitignore file to your project directory, instructing Git to ignore them.
-        4. Optional: add README. The README file in a project acts as the first point of information for anyone who encounters the project, offering an overview of what the project is about, how to install and use it, and any other relevant details that you wish your audience to know.
+        6. Optional: add README. The README file in a project acts as the first point of information for anyone who encounters the project, offering an overview of what the project is about, how to install and use it, and any other relevant details that you wish your audience to know.
 
             * PUT WHICH VERSION OF THE ENGINE YOU ARE USING.
             * If you are working with others this is a MUST
             * If you want to go all out writing a nice readme look here to see how to write an effective README: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
                 * Fun Note: this entire document you are reading is a READ.ME
-        5. git add origin
-        6. Push
+        7. git add origin
+        8. Push
 3. Working on Someone else's project
    1. [Collaborator](https://www.geeksforgeeks.org/what-are-github-collaborators/)
         * Why have collaborators? Collaborators are people who have the same access to a repo as you do (mostly). You should only have collaborators if these are people you trust personally, and are members who should have write and read privileges to the repository.
