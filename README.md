@@ -168,8 +168,18 @@ Now that everything has been set up, this section will show you will operate wit
               * It is recommended that each teammate should create their own version of the main scene and work on it. A good file management practice is to name your unique scene file with your name. For example: VittoMainScene
 
      2. While your working
-        1. Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
-        * asdfadsffff
+        * USE PREFABS
+           1. Prefabs are pre-configured, reusable game objects that you can create in Unity for repeated use.
+           2. Inform your collaborators regarding prefab additions and changes.
+           3. When you make changes to prefabs, override it so it applies to all existing instances of the prefabs (apply changes globally).
+              * After you edited the prefab object within a scene, click the override button in the right side inspector when selecting it. Then click “Apply All”. ![finish_project](images/eqnx.png)
+              * You can safely discard scene changes after you override the changes to the prefab.
+           4. You could also unpack a prefab to a scene.  It allows you to break the instance connection between the scene object and its source prefab. This action enables you to make specific adjustments or modifications to that instance without affecting the original prefab or any of its other instances.
+              * To do this, right click on the prefab object in the hierarchy, then navigate to Prefab - Unpack Completely ![finish_project](images/eqnx.png)
+           6. **Note**: sometimes people use tooling to automate the creation of essential objects. Thus instead of manually adding them into a Scene, a tool will make it for you. Thus, you can decouple the need to drag-in objects into a room, reducing merge conflicts when creating new essential prefabs.
+
+        * Make sure you refrain from commit Scene changes unless necessary. This practice helps to prevent potential conflicts with other contributors' work as discussed earlier.
+
      3. Before you push
         * Double-check that all the changes, files, or updates you intend to push are accurately staged for the commit.
         * Discard unnecessary changes to maintain a clean and relevant project history and avoid any unnecessary conflicts.
@@ -182,7 +192,6 @@ Now that everything has been set up, this section will show you will operate wit
            * When Unity Scene files merge conflict does happen, the easiest approach would be to only keep one version of the scene file and remove all other changes.
         * Have rules for pull requests is essential in managing a collaborative development environment efficiently and maintaining high-quality code standards.
            * [Best practices for pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests)
-
 
      5. Builds
         * Make sure they are in .gitignore and you do not push it. 
