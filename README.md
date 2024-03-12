@@ -111,7 +111,17 @@ To be able to make games collaborative we will need to create all the software n
 
 ## Part 3: Setup Project to work with Github
 Before we can create games, we need to create our project in Unity, and then link it to a version of it in Github.
-1. Creating a New Unity Project (if you are starting from scratch)
+
+**Topics:**
+
+* [A. Install Unity](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-install-unity)
+
+* [B. Install Git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#b-install-git)
+
+* [C. Install Visual Studio](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#c-install-visual-studio)
+
+
+### A. Creating a New Unity Project (if you are starting from scratch)
    1. Within Unity Hub, click “New project”
       ![proj_new](images/new_project.png)
    2. Select an editor version that you have installed to develop this project. 
@@ -120,8 +130,8 @@ Before we can create games, we need to create our project in Unity, and then lin
       ![3d_cor](images/3d_core.png)
    4. On the right side, configure your project settings. Once finished, click “Create project”.
       ![finish_project](images/finish_project.png)      
-         
-2. Hooking up a Unity Project to Github
+
+### B. Hooking up a Unity Project to Github
    1. [Creating a repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories) \
       ![3d_cor](images/vitto_repo.png)
         1. Give it a name & description
@@ -131,7 +141,6 @@ Before we can create games, we need to create our project in Unity, and then lin
 
             * **Public**: Public repositories are accessible to anyone on the internet. This means that anyone can see the source code, clone the repository, and submit issues or pull requests. This is great for open-source projects and community collaboration.
                * **Privacy Note**: Making it public means there are risks for exposure of sensitive data, unauthorized modifications, and concerns regarding copyrights, so make sure you are ready for this.
-
 
         3. Add README (Optional):
             * The README file in a project acts as the first point of information for anyone who encounters the project, offering an overview of what the project is about, how to install and use it, and any other relevant details that you wish your audience to know.
@@ -146,11 +155,10 @@ Before we can create games, we need to create our project in Unity, and then lin
         7. [Choose a License](https://docs.github.com/github/creating-cloning-and-archiving-repositories/licensing-a-repository) (Optional):
            * **Copyright Note**: in general make sure you own all the assets you use, and if not that you are using the right type of [attributions](https://ecampusontario.pressbooks.pub/authoringguide/chapter/attribution-statements/) for your work.
         8. Click the “Create repository” option
-
-3. [Hooking up Local project to git](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github):
+### C. [Hooking up Local project to git](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github):
    * Linking your project directory to a Git repository, enabling version control and collaboration.
      
-4. Collaborative development in the repo:
+### D. Collaborative development in the repo:
    1. [Collaborator](https://www.geeksforgeeks.org/what-are-github-collaborators/)
         * Why have collaborators? Collaborators are individuals who generally have the same level of access to a repository as you do. You should only add collaborators whom you trust and who are deemed necessary to have read and write privileges to the repository.
         * https://www.geeksforgeeks.org/what-are-github-collaborators/
@@ -159,7 +167,7 @@ Before we can create games, we need to create our project in Unity, and then lin
         * Why have forking? Forking is useful when you want to maintain control over the changes made to your repository. It allows others to view and contribute to your project while giving you the power to review and integrate those changes as you will.
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 
-5. Pull the project:
+### E. Pull the project:
    1. **Note**: This step is only relevant when you're working on someone else's project and have checked out step 4.
    2. [Tutorial on how to clone the repository locally](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
       * After this you should have the project on your machine
