@@ -172,7 +172,7 @@ Now that everything has been set up, this section will show you will operate wit
            1. Prefabs are pre-configured, reusable game objects that you can create in Unity for repeated use.
            2. Inform your collaborators regarding prefab additions and changes.
            3. When you make changes to prefabs, override it so it applies to all existing instances of the prefabs (apply changes globally).
-              * After you edited the prefab object within a scene, click the override button in the right side inspector when selecting it. Then click “Apply All”. \ ![finish_project](images/prefab_image.png)
+              * After you edited the prefab object within a scene, click the override button in the right side inspector when selecting it. Then click “Apply All”.  ![finish_project](images/prefab_image.png)
               * You can safely discard scene changes after you override the changes to the prefab.
            4. You could also unpack a prefab to a scene.  It allows you to break the instance connection between the scene object and its source prefab. This action enables you to make specific adjustments or modifications to that instance without affecting the original prefab or any of its other instances.
               * To do this, right click on the prefab object in the hierarchy, then navigate to Prefab - Unpack Completely ![finish_project](images/lsd.png)
