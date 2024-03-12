@@ -109,12 +109,13 @@ Before we can create games, we need to create our project in Unity, and then lin
             * The README file in a project acts as the first point of information for anyone who encounters the project, offering an overview of what the project is about, how to install and use it, and any other relevant details that you wish your audience to know.
             * PUT WHICH VERSION OF THE ENGINE YOU ARE USING.
                * If you are working with others this is a MUST, as it reduces you headaches.
-            * If you want to go all out writing a nice readme, learn [how to write markdown files](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) (markdowns are the file format of README's).
+            * If you want to go all out writing a nice readme, learn [how to write markdown files/README's](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) (markdowns are the file format of README's).
             * **Fun Note**: this entire document you are reading is a README.
 
 
         5. Add: .gitignore:
             * Unity generates temporary files, builds assets, log files, and other project files that shouldn't be included in version control. Including these files in Git can significantly increase the size of your repository and lead to conflicts when several developers work on the same project. To prevent Git from tracking these files, you can add a .gitignore file to your project directory, instructing Git to ignore them.
+              ![finish_project](images/finish_project.png)      
         6. Optional: add README. The README file in a project acts as the first point of information for anyone who encounters the project, offering an overview of what the project is about, how to install and use it, and any other relevant details that you wish your audience to know.
 
             * PUT WHICH VERSION OF THE ENGINE YOU ARE USING.
