@@ -37,6 +37,9 @@ In here we will create accounts all the prerequisite software necessary to work.
    * Have a computer powerful enough to run Unity. A good rule of thumb is if you can play a standard computer game in it, it should be fine. [More requirement information](https://docs.unity3d.com/Manual/system-requirements.html)
 3. [Create Github Account](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
 4. [Create Unity Account](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
+   * Obtain a License: A default personal license should be sufficient. However, consider getting a student license if you are qualified.
+      * Learn more about eligibility and benefits of the Unity Student Plan here: https://unity.com/products/unity-student
+      * You can continue with a personal license while waiting for approval.
    
 ## Part 2: Install and Setup Software
 To be able to make games collaborative we will need to create all the software necessary to do so. This means: installing a game engine (unity), a version control (github), and a way to write code (visual studio).
