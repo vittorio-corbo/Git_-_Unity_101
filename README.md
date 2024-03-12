@@ -44,7 +44,15 @@ In here we will create accounts all the prerequisite software necessary to work.
    
 ## Part 2: Install and Setup Software
 To be able to make games collaborative we will need to create all the software necessary to do so. This means: installing a game engine (Unity), a version control (Github), and a way to write code (Visual Studio).
-### 1. Install Unity
+
+Topics:
+[A. Install Unity](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#background)
+
+[B. Install Git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
+
+[C. Install Visual Studio](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
+
+### A. Install Unity
 1. Install Unity
    1. [Install Unity hub](https://unity.com/download)
       ![unity_download](images/download_unity.png)
@@ -69,7 +77,7 @@ To be able to make games collaborative we will need to create all the software n
              *  If you choose Visual Studio to be your default script editor yet it is not integrated correctly, visit this site for more instructions: https://docs.unity3d.com/Manual/VisualStudioIntegration.html
              * When you install Visual Studio, you want to have Tools for Unity Visual Studio Extension, check the box in the “Workloads” tab when installing
                    ![vs](images/list_proj.png)
-### 2. Install Git
+### B. Install Git
 2. Install Git
    * [Install Git Desktop](https://desktop.github.com/)
        * This is more beginner-friendly as it provides you with an intuitive interface on how to use Git features if you are not familiar with writing commands manually. 
@@ -77,7 +85,8 @@ To be able to make games collaborative we will need to create all the software n
    * [Install Git Bash](https://git-scm.com/downloads) 
      * This is the alternative and harder version of managing version control. This is **NOT** recommended for beginners. If you have experience with working from the terminal you can use this.
      * **Fun Fact**: if you installed Git Desktop you automatically have access to Git Bash
-
+     
+### C. Install Visual Studio
 3. [Install Visual Studio](https://visualstudio.microsoft.com/downloads/)
    * **Note**: You do not have to do this if you Installed Visual Studio in the (Add Modules Step). If you didn't you can install it and connect it here.
    * Install Tools for Unity Visual Studio Extension, integrate Visual Studio to Unity, and set it as the default editor. (Link it back to the earlier instructions)
