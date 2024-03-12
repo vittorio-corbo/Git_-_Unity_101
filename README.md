@@ -26,10 +26,9 @@ In this Tutorial we use Unity and Git:
     * Alternatives: Unity as a company can cause controversies sometimes. If you want to make a game, also think about other alternatives such as Godot, Unreal, and GameMaker for 2D games. As a whole, each engine has its own use cases, so make sure that you are using the right tool for the job.
        * https://www.brsoftech.com/blog/advantages-and-disadvantages-of-best-game-engines/
        * This is not an exhaustive list, there is a whole ocean of game engines.
-
-Why use git?
-Git is essential for software development, offering a version control system that tracks changes and allows for easy reversion to previous states. It allows seamless collaboration among developers by providing each one with a complete history and files of the project, stored in a decentralized repository thanks to black magic. 
-Alternatives: there are other types of types of version control, such as Perforce. Each has pros and cons, so just know that you are not stuck with Git. However, git is the most popular version control system among developers.
+    * Why use git?
+       * Git is essential for software development, offering a version control system that tracks changes and allows for easy reversion to previous states. It allows seamless collaboration among developers by providing each one with a complete history and files of the project, stored in a decentralized repository thanks to black magic.
+       * Alternatives: there are other types of types of version control, such as Perforce. Each has pros and cons, so just know that you are not stuck with Git. However, git is the most popular version control system among developers.
 
 
 ## Part 1: Account Setup
