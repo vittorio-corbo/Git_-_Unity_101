@@ -112,7 +112,6 @@ Before we can create games, we need to create our project in Unity, and then lin
             * If you want to go all out writing a nice readme, learn [how to write markdown files/README's](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) (markdowns are the file format of README's).
             * **Fun Note**: this entire document you are reading is a README.
 
-
         5. Add: .gitignore:
             * Unity generates temporary files, builds assets, log files, and other project files that shouldn't be included in version control. Including these files in Git can significantly increase the size of your repository and lead to conflicts when several developers work on the same project. To prevent Git from tracking these files, you can add a .gitignore file to your project directory, instructing Git to ignore them. \
               ![finish_project](images/ignore2.png)      
@@ -124,7 +123,6 @@ Before we can create games, we need to create our project in Unity, and then lin
    * Linking your project directory to a Git repository, enabling version control and collaboration.
      
 4. Collaborative development in the repo:
-   1. Collaborator
    1. [Collaborator](https://www.geeksforgeeks.org/what-are-github-collaborators/)
         * Why have collaborators? Collaborators are individuals who generally have the same level of access to a repository as you do. You should only add collaborators whom you trust and who are deemed necessary to have read and write privileges to the repository.
         * https://www.geeksforgeeks.org/what-are-github-collaborators/
