@@ -49,9 +49,9 @@ To be able to make games collaborative we will need to create all the software n
 
 * [A. Install Unity](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-install-unity)
 
-* [B. Install Git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
+* [B. Install Git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#b-install-git)
 
-* [C. Install Visual Studio](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
+* [C. Install Visual Studio](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#c-install-visual-studio)
 
 ### A. Install Unity
 1. Install Unity
