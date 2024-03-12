@@ -156,7 +156,7 @@ Now that everything has been set up, this section will show you will operate wit
      1. Before you begin working
         * Ensure your local repository is up-to-date with the latest changes
           1. If you're a contributor or owner, directly pull the latest updates.
-          2. For forked projects, first synchronize your online repository with the original's most recent version, then pull the updates to your local repository. \ ![finish_project](images/windows.png)
+          2. For forked projects, first synchronize your online repository with the original's most recent version, then pull the updates to your local repository.  ![finish_project](images/eqnx.png)
           3. Pulling Local merge conflicts
              * **Stash changes**: Temporarily shelving (or "stashing") changes allows you to save your current work progress without committing it. This is useful for clearing your working directory to pull new changes from the repository, after which you can reapply your stashed changes.
              * **Discard**: Discarding changes removes any modifications you've made to your working directory that haven't been committed. This is helpful when you want to reset your files to their last committed state, effectively ignoring any recent, uncommitted edits before pulling updates.
