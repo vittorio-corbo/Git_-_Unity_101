@@ -48,7 +48,7 @@ To be able to make games collaborative we will need to create all the software n
    1. [Install Unity hub](https://unity.com/download)
       ![unity_download](images/download_unity.png)
       * Unity Hub is your one stop shop which houses your installations of the Unity Engine. Which allows you to change your version of Unity depending on the project version you are working on.
-      * Note: While the engine can be downloaded without hubs, this isn’t recommended. If you still want to download the engine by itself you can learn more at: https://docs.unity3d.com/Manual/ManualActivationGuide.html
+      * **Note**: While the engine can be downloaded without hubs, this isn’t recommended. If you still want to download the engine by itself you can learn more at: https://docs.unity3d.com/Manual/ManualActivationGuide.html
    3. Install a Unity Version
       1. In the Unity Hub, go to the “Installs” tab on the left. Click “Install Editor” option.
       ![download_unity_ver](images/download_hubs.png)
