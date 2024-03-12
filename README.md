@@ -34,8 +34,7 @@ In this Tutorial we use Unity and Git:
 ## Part 1: Account Setup
 In here we will create accounts all the prerequisite software necessary to work.
 1. Hardware
-   * Have a computer powerful enough to run Unity. A good rule of thumb is if you can play a standard computer game in it, it should be fine.
-   * [More requirement information](https://docs.unity3d.com/Manual/system-requirements.html)
+   * Have a computer powerful enough to run Unity. A good rule of thumb is if you can play a standard computer game in it, it should be fine. [More requirement information](https://docs.unity3d.com/Manual/system-requirements.html)
 3. [Create Github Account](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
 4. [Create Unity Account](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
    
