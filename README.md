@@ -47,11 +47,11 @@ In here we will create accounts all the prerequisite software necessary to work.
 
 **Topics:**
 
-* [A. Hardware](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#what-is-unity)
+* [A. Hardware](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-hardware)
 
-* [B. Create Github Account](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#why-use-git)
+* [B. Create Github Account](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#b-create-github-account)
 
-* [C. Create Unity Account](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#why-use-git)
+* [C. Create Unity Account](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#c-create-unity-account)
 
 ### A. Hardware
 * Have a computer powerful enough to run Unity. A good rule of thumb is if you can play a standard computer game in it, it should be fine. [More requirement information](https://docs.unity3d.com/Manual/system-requirements.html)
