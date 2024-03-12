@@ -4,6 +4,7 @@ How to use Git and Unity with a group of Game Makers.
 
 
 ## Table of contents
+[Part 0: Background](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
 
 [Part 1: Account Setup](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
 
