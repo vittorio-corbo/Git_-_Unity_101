@@ -150,7 +150,7 @@ Now that everything has been set up, this section will show you will operate wit
 
 1. How to Git
      * While extremely important we will not go in-depth on how to use git here. Here are some good guides depending in how you operate Git.
-        * [Git Desktop guide](How to use GitHub Desktop: The easy tutorial(Part1) (youtube.com))
+        * [Git Desktop guide](https://www.youtube.com/watch?v=RPagOAUx2SQ)
         * [Git Bash](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
      * **Note**: learning how to use git is impossible, you will always be learning it, so be patient.
 2. How to work in Unity with Git 
