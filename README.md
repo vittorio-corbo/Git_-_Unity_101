@@ -186,10 +186,6 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/workin
 ## Part 4: How to work in the project
 Now that everything has been set up, this section will show you will operate within your working environment. Moreover, some good practices that will save you many headaches.
 
-| Topics                                |
-| ----- | ----------------------------- |
-| A.  | [How to Git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-how-to-git)                      |
-
 **Topics:**
 
 * [A. How to Git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-how-to-git)
