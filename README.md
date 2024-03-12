@@ -14,6 +14,9 @@ How to use Git and Unity with a group of Game Makers.
 
 [Part 4: How to work in the project](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-4-how-to-work-in-the-project)
 
+## Part 0: Background
+pizza
+
 ## Part 1: Account Setup
 In here we will create accounts all the prerequisite software necessary to work.
 1. [Create Github Account](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
