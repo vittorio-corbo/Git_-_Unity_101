@@ -4,19 +4,19 @@ Want to make game with others? Want to make games by yourself? Want to keep trac
 
 
 ## Table of Contents
-[Background](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#background)
+* [Background](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#background)
 
-[Part 1: Account Setup](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
+* [Part 1: Account Setup](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
 
-[Part 2: Install and Setup Software](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-2-install-and-setup-software)
+* [Part 2: Install and Setup Software](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-2-install-and-setup-software)
 
-[Part 3: Setup Project to work with Github](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-3-setup-project-to-work-with-github)
+* [Part 3: Setup Project to work with Github](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-3-setup-project-to-work-with-github)
 
-[Part 4: How to work in the project](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-4-how-to-work-in-the-project)
+* [Part 4: How to work in the project](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-4-how-to-work-in-the-project)
 
-[Conclusion](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#conclusion)
+* [Conclusion](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#conclusion)
 
-[Future Resources](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#future-resources)
+* [Future Resources](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#future-resources)
 
 ## Background
 This is an introductory guide for aspiring game developers, especially those who are new to participating in a Video Game Design Club such as [VGDev](https://www.gtvgdev.com/) or making games in general. 
@@ -47,11 +47,11 @@ To be able to make games collaborative we will need to create all the software n
 
 **Topics:**
 
-[A. Install Unity](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#background)
+* [A. Install Unity](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#background)
 
-[B. Install Git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
+* [B. Install Git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
 
-[C. Install Visual Studio](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
+* [C. Install Visual Studio](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
 
 ### A. Install Unity
 1. Install Unity
