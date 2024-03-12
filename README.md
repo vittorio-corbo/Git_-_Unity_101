@@ -120,13 +120,33 @@ Before we can create games, we need to create our project in Unity, and then lin
            * **Copyright Note**: in general make sure you own all the assets you use, and if not that you are using the right type of [attributions](https://ecampusontario.pressbooks.pub/authoringguide/chapter/attribution-statements/) for your work.
         8. Click the “Create repository” option
 
-3. Working on Someone else's project
+3. [Hooking up Local project to git](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github):
+   * Linking your project directory to a Git repository, enabling version control and collaboration.
+     
+4. Collaborative development in the repo:
+   1. Collaborator
    1. [Collaborator](https://www.geeksforgeeks.org/what-are-github-collaborators/)
-        * Why have collaborators? Collaborators are people who have the same access to a repo as you do (mostly). You should only have collaborators if these are people you trust personally, and are members who should have write and read privileges to the repository.
+        * Why have collaborators? Collaborators are individuals who generally have the same level of access to a repository as you do. You should only add collaborators whom you trust and who are deemed necessary to have read and write privileges to the repository.
+        * https://www.geeksforgeeks.org/what-are-github-collaborators/
+   2. Not a collaborator
+        * Forking: Forking in GitHub is the process of creating a copy of someone else's repository to your account. This allows you to freely experiment with changes without affecting the original project. 
+        * Why have forking? Forking is useful when you want to maintain control over the changes made to your repository. It allows others to view and contribute to your project while giving you the power to review and integrate those changes as you will.
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 
-   2. [Not a collaborator](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
-        * FORKING
-        * Why have forking? If you are working on a project where you want to take charge of what is being changed to your repository, you should have forking. This allows people on the internet to see
+
+6. Pull the project:
+Note: This step is only relevant when you're working on someone else's project and have checked out step 4.
+Tutorial on how to clone the repository locally 
+Link (can you find it vitto????????????????????????????????)
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+
+After this you should have the project on your machine
+How to make the project appear in Unity Hub
+In Unity Hub, click the “Add” button
+Locate the folder that contains the project that you just cloned in the pop-up file explorer. Click Open
+Click on the project in Unity Hub to open it. Unity will take a long time to open a project for the first time due to temporary file creation, so be patient.
+
 
       
 ## Part 4: How to work in the project
