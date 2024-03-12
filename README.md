@@ -73,8 +73,10 @@ To be able to make games collaborative we will need to create all the software n
    * [Install Git Desktop](https://desktop.github.com/)
        * This is more beginner-friendly as it provides you with an intuitive interface on how to use Git features if you are not familiar with writing commands manually. 
    * OR
-   * [Install Git Bash](https://git-scm.com/downloads) Alternatively you can do this
-     * This is the alternative and harder version of managing version control. This is NOT recommended for beginners. If you have experience with working from the terminal you can use this.
+   * [Install Git Bash](https://git-scm.com/downloads) 
+     * This is the alternative and harder version of managing version control. This is **NOT** recommended for beginners. If you have experience with working from the terminal you can use this.
+     * **Fun Fact**: if you installed Git Desktop you automatically have access to Git Bash
+
 
 3. [Install Visual Studio](https://visualstudio.microsoft.com/downloads/)
    * Note: You do not have to do this if you Installed Visual Studio in the (Add Modules Step). If you didn't you can install it and connect it here.
