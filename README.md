@@ -22,10 +22,10 @@ Want to make game with others? Want to make games by yourself? Want to keep trac
 This is an introductory guide for aspiring game developers, especially those who are new to participating in the Video Game Design Club (VGDev) or making games in general.
 In this Tutorial we use Unity and Git:
 * What is Unity?
-	* Unity is a well-known and highly versatile game engine that can make 2D, 3D, and VR games for various platforms. It is extremely powerful yet has a user-friendly interface and a supportive community for game developers to bring their game vision to life. As a whole, it is one of the most popular game engines, especially for smaller to midsize teams.
- 	* Alternatives: Unity as a company can cause controversies sometimes. If you want to make a game, also think about other alternatives such as Godot, Unreal, and GameMaker for 2D games. As a whole, each engine has its own use cases, so make sure that you are using the right tool for the job.
- 	  * https://www.brsoftech.com/blog/advantages-and-disadvantages-of-best-game-engines/
-          * This is not an exhaustive list, there is a whole ocean of game engines.
+    * Unity is a well-known and highly versatile game engine that can make 2D, 3D, and VR games for various platforms. It is extremely powerful yet has a user-friendly interface and a supportive community for game developers to bring their game vision to life. As a whole, it is one of the most popular game engines, especially for smaller to midsize teams.
+    * Alternatives: Unity as a company can cause controversies sometimes. If you want to make a game, also think about other alternatives such as Godot, Unreal, and GameMaker for 2D games. As a whole, each engine has its own use cases, so make sure that you are using the right tool for the job.
+       * https://www.brsoftech.com/blog/advantages-and-disadvantages-of-best-game-engines/
+       * This is not an exhaustive list, there is a whole ocean of game engines.
 
 Why use git?
 Git is essential for software development, offering a version control system that tracks changes and allows for easy reversion to previous states. It allows seamless collaboration among developers by providing each one with a complete history and files of the project, stored in a decentralized repository thanks to black magic. 
