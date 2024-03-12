@@ -4,7 +4,7 @@ Want to make game with others? Want to make games by yourself? Want to keep trac
 
 
 ## Table of Contents
-[Background](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-0-background)
+[Background](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#background)
 
 [Part 1: Account Setup](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
 
