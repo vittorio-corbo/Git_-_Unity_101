@@ -24,9 +24,9 @@ This is an introductory guide for aspiring game developers, especially those who
 
 **Topics:**
 
-* [What is Unity?](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-install-unity)
+* [What is Unity?](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#what-is-unity)
 
-* [Why use Git?](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#b-install-git)
+* [Why use Git?](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#why-use-git)
 
 
 
