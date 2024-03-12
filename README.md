@@ -155,11 +155,11 @@ Now that everything has been set up, this section will show you will operate wit
 2. How to work in Unity with Git 
      1. Before you begin working
         1. Ensure your local repository is up-to-date with the latest changes
-          * If you're a contributor or owner, directly pull the latest updates.
-          * For forked projects, first synchronize your online repository with the original's most recent version, then pull the updates to your local repository.  ![finish_project](images/eqnx.png)
-          * Pulling Local merge conflicts
-             * **Stash changes**: Temporarily shelving (or "stashing") changes allows you to save your current work progress without committing it. This is useful for clearing your working directory to pull new changes from the repository, after which you can reapply your stashed changes.
-             * **Discard**: Discarding changes removes any modifications you've made to your working directory that haven't been committed. This is helpful when you want to reset your files to their last committed state, effectively ignoring any recent, uncommitted edits before pulling updates.
+           * If you're a contributor or owner, directly pull the latest updates.
+           * For forked projects, first synchronize your online repository with the original's most recent version, then pull the updates to your local repository.  ![finish_project](images/eqnx.png)
+           * Pulling Local merge conflicts
+              * **Stash changes**: Temporarily shelving (or "stashing") changes allows you to save your current work progress without committing it. This is useful for clearing your working directory to pull new changes from the repository, after which you can reapply your stashed changes.
+              * **Discard**: Discarding changes removes any modifications you've made to your working directory that haven't been committed. This is helpful when you want to reset your files to their last committed state, effectively ignoring any recent, uncommitted edits before pulling updates.
         2. Ensure you have the newly pulled changes present in your Unity project.
            * If unsure reload the scene
         3. Ensure you have the newly pulled changes present in your Unity project.
