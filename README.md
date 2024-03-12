@@ -54,8 +54,9 @@ In here we will create accounts all the prerequisite software necessary to work.
 * [C. Create Unity Account](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#why-use-git)
 
 ### A. Hardware
-   * Have a computer powerful enough to run Unity. A good rule of thumb is if you can play a standard computer game in it, it should be fine. [More requirement information](https://docs.unity3d.com/Manual/system-requirements.html)
+* Have a computer powerful enough to run Unity. A good rule of thumb is if you can play a standard computer game in it, it should be fine. [More requirement information](https://docs.unity3d.com/Manual/system-requirements.html)
 ### B. [Create Github Account](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
+* **Note**: creating a good set of repositories and projects you have worked on, is a great way to show your skills as a gamemaker. 
 ### C. [Create Unity Account](https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account)
 * Obtain a License: A default personal license should be sufficient. However, consider getting a student license if you are qualified.
    * Learn more about eligibility and benefits of the [Unity Student Plan](https://unity.com/products/unity-student)
