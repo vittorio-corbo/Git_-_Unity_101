@@ -20,7 +20,7 @@ Want to make game with others? Want to make games by yourself? Want to keep trac
 
 ## Background
 This is an introductory guide for aspiring game developers, especially those who are new to participating in a Video Game Design Club such as [VGDev](https://www.gtvgdev.com/) or making games in general. 
-**In this Tutorial we use Unity and Git:**
+**In this Tutorial we use Unity and Git.**
 
 **Topics:**
 
