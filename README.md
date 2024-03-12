@@ -114,12 +114,15 @@ Before we can create games, we need to create our project in Unity, and then lin
 
 **Topics:**
 
-* [A. Install Unity](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-install-unity)
+* [A. Creating a New Unity Project (if you are starting from scratch)](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-creating-a-new-unity-project-if-you-are-starting-from-scratch)
 
-* [B. Install Git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#b-install-git)
+* [B. Hooking up a Unity Project to Github](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#b-hooking-up-a-unity-project-to-github)
 
-* [C. Install Visual Studio](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#c-install-visual-studio)
+* [C. Hooking up Local project to git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#c-hooking-up-local-project-to-git)
 
+* [D. Collaborative development in the repo](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#d-collaborative-development-in-the-repo)
+
+* [E. Pull the project](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#e-pull-the-project)
 
 ### A. Creating a New Unity Project (if you are starting from scratch)
    1. Within Unity Hub, click “New project”
@@ -155,10 +158,10 @@ Before we can create games, we need to create our project in Unity, and then lin
         7. [Choose a License](https://docs.github.com/github/creating-cloning-and-archiving-repositories/licensing-a-repository) (Optional):
            * **Copyright Note**: in general make sure you own all the assets you use, and if not that you are using the right type of [attributions](https://ecampusontario.pressbooks.pub/authoringguide/chapter/attribution-statements/) for your work.
         8. Click the “Create repository” option
-### C. [Hooking up Local project to git](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github):
+### C. [Hooking up Local project to git](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
    * Linking your project directory to a Git repository, enabling version control and collaboration.
      
-### D. Collaborative development in the repo:
+### D. Collaborative development in the repo
    1. [Collaborator](https://www.geeksforgeeks.org/what-are-github-collaborators/)
         * Why have collaborators? Collaborators are individuals who generally have the same level of access to a repository as you do. You should only add collaborators whom you trust and who are deemed necessary to have read and write privileges to the repository.
         * https://www.geeksforgeeks.org/what-are-github-collaborators/
@@ -167,7 +170,7 @@ Before we can create games, we need to create our project in Unity, and then lin
         * Why have forking? Forking is useful when you want to maintain control over the changes made to your repository. It allows others to view and contribute to your project while giving you the power to review and integrate those changes as you will.
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 
-### E. Pull the project:
+### E. Pull the project
    1. **Note**: This step is only relevant when you're working on someone else's project and have checked out step 4.
    2. [Tutorial on how to clone the repository locally](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
       * After this you should have the project on your machine
