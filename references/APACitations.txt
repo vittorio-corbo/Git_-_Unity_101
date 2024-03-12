@@ -1,0 +1,29 @@
+﻿References
+
+
+Adhikary, T. (2022, May 9). How to resolve merge conflicts in git – A practical guide with examples. freeCodeCamp.org. https://www.freecodecamp.org/news/resolve-mer
+ge-conflicts-in-git-a-practical-guide/ 
+EXPLOI.T. (2020, March 16). How to use github desktop: The easy tutorial(part1). YouTube. https://www.youtube.com/watch?v=RPagOAUx2SQ 
+Garg, N. (2023, December 27). Best game development tools : Advantages and disadvantages. BR Softech. https://www.brsoftech.com/blog/advantages-and-disadvantages-
+of-best-game-engines/ 
+GitHub Docs. (n.d.-a). Adding locally hosted code to github. https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github 
+GitHub Docs. (n.d.-b). Cloning a repository. https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository 
+GitHub Docs. (n.d.-c). Fork a repository. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo 
+GitHub Docs. (n.d.-d). Licensing a repository. https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository 
+GitHub Docs. (n.d.-e). Quickstart for repositories. https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories 
+Hogenson, G., Patel, M., Harvey, B., Cai, S., Yu, H., j-martens, & Lee, T. G. (n.d.). Create a github account to use with Visual Studio. Microsoft Learn. https://learn.microsoft.co
+m/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022 
+HubSpot Product Team. (n.d.). An intro to git and github for beginners (tutorial). HubSpot Careers. https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners 
+Ortiz, B. (2023, September 11). Connecting git to Unity - an easy guide!. Medium. https://medium.com/@GameDevSeries/connecting-git-to-unity-an-easy-guide-e57f8895fb9f 
+Penny. (n.d.). How do I create a unity ID account?. Unity Support. https://support.unity.com/hc/en-us/articles/208626336-How-do-I-create-a-Unity-ID-account 
+Pettersen, T. (2023, December 8). The Complete Guide to Unity & Git. Game Developer. https://www.gamedeveloper.com/programming/the-complete-guide-to-unity-git 
+Queen’s University. (2018, August 9). Attribution statements and copyright notices. Queens Open Textbook Authoring Guide. https://ecampusontario.pressbooks.pub/author
+ingguide/chapter/attribution-statements/ 
+Therealjohn. (n.d.). Install & Configure Visual Studio Tools for Unity. Install & configure Visual Studio Tools for Unity | Microsoft Learn. https://learn.microsoft.com/en-us/visualstudio/gamedev/unity/get-started/getting-started-with-visual-studio-tools-for-unity?pivots=windows 
+Trello. (n.d.). Getting started with Trello. ATLASSIAN Trello. https://trello.com/guide 
+Unity Learn. (n.d.). Roll-a-ball. https://learn.unity.com/project/roll-a-ball 
+Unity Technologies. (n.d.-a). Manual License Activation. Unity. https://docs.unity3d.com/Manual/ManualActivationGuide.html 
+Unity Technologies. (n.d.-b). System requirements for unity 2022.3. Unity. https://docs.unity3d.com/Manual/system-requirements.html 
+Unity Technologies. (n.d.-c). Unity student. Unity. https://unity.com/products/unity-student 
+Unity Technologies. (n.d.-d). Visual studio C# integration. Unity. https://docs.unity3d.com/Manual/VisualStudioIntegration.html 
+Using GitHub with Unity. Using github with unity. (n.d.). https://uvasgd.github.io/sgd-docs/unity/github.html
