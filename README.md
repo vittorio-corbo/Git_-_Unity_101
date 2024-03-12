@@ -74,7 +74,6 @@ To be able to make games collaborative we will need to create all the software n
 * [C. Install Visual Studio](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#c-install-visual-studio)
 
 ### A. Install Unity
-1. Install Unity
    1. [Install Unity hub](https://unity.com/download)
       ![unity_download](images/download_unity.png)
       * Unity Hub is your one stop shop which houses your installations of the Unity Engine. Which allows you to change your version of Unity depending on the project version you are working on.
@@ -99,7 +98,6 @@ To be able to make games collaborative we will need to create all the software n
              * When you install Visual Studio, you want to have Tools for Unity Visual Studio Extension, check the box in the “Workloads” tab when installing
                    ![vs](images/list_proj.png)
 ### B. Install Git
-2. Install Git
    * [Install Git Desktop](https://desktop.github.com/)
        * This is more beginner-friendly as it provides you with an intuitive interface on how to use Git features if you are not familiar with writing commands manually. 
    * OR
@@ -107,8 +105,7 @@ To be able to make games collaborative we will need to create all the software n
      * This is the alternative and harder version of managing version control. This is **NOT** recommended for beginners. If you have experience with working from the terminal you can use this.
      * **Fun Fact**: if you installed Git Desktop you automatically have access to Git Bash
      
-### C. Install Visual Studio
-3. [Install Visual Studio](https://visualstudio.microsoft.com/downloads/)
+### C. [Install Visual Studio](https://visualstudio.microsoft.com/downloads/)
    * **Note**: You do not have to do this if you Installed Visual Studio in the (Add Modules Step). If you didn't you can install it and connect it here.
    * Install Tools for Unity Visual Studio Extension, integrate Visual Studio to Unity, and set it as the default editor. (Link it back to the earlier instructions)
 
