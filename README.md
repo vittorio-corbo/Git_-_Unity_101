@@ -149,9 +149,10 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/workin
 Now that everything has been set up, this section will show you will operate within your working environment. Moreover, some good practices that will save you many headaches.
 
 1. How to Git
-     * (Fork it maybe)
-     * Git clone
-     * DO THIS FOR BOTH GIT BASH AND DESKTOP (if not choose one)
+     * While extremely important we will not go in-depth on how to use git here. Here are some good guides depending in how you operate Git.
+        * [Git Desktop guide](How to use GitHub Desktop: The easy tutorial(Part1) (youtube.com))
+        * [Git Bash](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+     * **Note**: learning how to use git is impossible, you will always be learning it, so be patient.
 2. How to work in Unity with Git 
      1. Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
         * asdfadsffff
