@@ -59,9 +59,9 @@ To be able to make games collaborative we will need to create all the software n
                   ![unity_editor](images/unity_editor.png)
            * If you are choosing your own version of the Unity Engine for the project, it is recommended to choose an LTS version.
            * **Funny Note**:  follow the rule of Three F. If it has a 3 in the second digit and an f. For example: 2022.3.xxfx. These versions will also have tags to indicate they are LTS versions.
-      4. In the Add Modules pop-up page (These are additive things you can attach to Unity, which allows you to have new languages, Vr, or other stuff)
+      4. In the Add Modules pop-up page (These are additive things you can attach to Unity, which allows you to have new languages, VR, or other stuff)
            * **Build support**: Add any platform build supports based on your operating system & your audience's operating system. For example:
-                * If you are making computer games that will function on Windows and Mac systems, you check the boxes for Windows Build Support and Mac Build Support (select both IL2CPP and Mono variants unless only one option is present on your platform).
+                * If you are making computer games that will function on Windows and Mac systems, you check the boxes for **Windows Build Support** and **Mac Build Support** (select both IL2CPP and Mono variants unless only one option is present on your platform).
            * **Language**: The default Language for Unity Editor will be English. If you need additional language options, you can add whatever Language Packs that you are more comfortable working with.
            * **Documentation**: This is highly recommended as it aids you in navigating through the Unity Editor and scripting C#.
            * **Visual Studio Community**: Visual Studio Community Edition is recommended for code editing IDE.
@@ -72,6 +72,7 @@ To be able to make games collaborative we will need to create all the software n
 2. Install Git
    * [Install Git Desktop](https://desktop.github.com/)
        * This is more beginner-friendly as it provides you with an intuitive interface on how to use Git features if you are not familiar with writing commands manually.
+   OR
    * [Install Git Bash](https://git-scm.com/downloads) Alternatively you can do this
      * This is the alternative and harder version of managing version control. This is NOT recommended for beginners. If you have experience with working from the terminal you can use this.
 
