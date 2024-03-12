@@ -55,10 +55,10 @@ To be able to make games collaborative we will need to create all the software n
          
       2. Choose a version depending on projects and features, LTS (Long Time Support) versions are recommended for stability.
            * Install the version corresponding to the project you are in. Everyone within the same project should use the same version of the Unity Engine.
-                * Note that sometimes the required version of the specific project might not be shown in the pop-up menu on your Unity Hub. In that case, you may need to click the “download archive” option under the “Archive” tab. This will lead you to find the right versions you need.
+                * **Note** that sometimes the required version of the specific project might not be shown in the pop-up menu on your Unity Hub. In that case, you may need to click the “download archive” option under the “Archive” tab. This will lead you to find the right versions you need.
                   ![unity_editor](images/unity_editor.png)
            * If you are choosing your own version of the Unity Engine for the project, it is recommended to choose an LTS version.
-           * Funny Note:  follow the rule of Three F. If it has a 3 in the second digit and an f. For example: 2022.3.xxfx. These versions will also have tags to indicate they are LTS versions.
+           * **Funny Note**:  follow the rule of Three F. If it has a 3 in the second digit and an f. For example: 2022.3.xxfx. These versions will also have tags to indicate they are LTS versions.
       4. In the Add Modules pop-up page (These are additive things you can attach to Unity, which allows you to have new languages, Vr, or other stuff)
            * Build support: Add any platform build supports based on your operating system & your audience's operating system. For example:
                 * If you are making computer games that will function on Windows and Mac systems, you check the boxes for Windows Build Support and Mac Build Support (select both IL2CPP and Mono variants unless only one option is present on your platform).
