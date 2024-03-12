@@ -154,12 +154,19 @@ Now that everything has been set up, this section will show you will operate wit
      * **Note**: learning how to use git is impossible, you will always be learning it, so be patient.
 2. How to work in Unity with Git 
      1. Before you begin working
-        * Ensure your local repository is up-to-date with the latest changes
-          1. If you're a contributor or owner, directly pull the latest updates.
-          2. For forked projects, first synchronize your online repository with the original's most recent version, then pull the updates to your local repository.  ![finish_project](images/eqnx.png)
-          3. Pulling Local merge conflicts
+        1. Ensure your local repository is up-to-date with the latest changes
+          * If you're a contributor or owner, directly pull the latest updates.
+          * For forked projects, first synchronize your online repository with the original's most recent version, then pull the updates to your local repository.  ![finish_project](images/eqnx.png)
+          * Pulling Local merge conflicts
              * **Stash changes**: Temporarily shelving (or "stashing") changes allows you to save your current work progress without committing it. This is useful for clearing your working directory to pull new changes from the repository, after which you can reapply your stashed changes.
              * **Discard**: Discarding changes removes any modifications you've made to your working directory that haven't been committed. This is helpful when you want to reset your files to their last committed state, effectively ignoring any recent, uncommitted edits before pulling updates.
+        2. Ensure you have the newly pulled changes present in your Unity project.
+           * If unsure reload the scene
+        3. Ensure you have the newly pulled changes present in your Unity project.
+           * Do not work on the same scene!
+              * Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
+              * It is recommended that each teammate should create their own version of the main scene and work on it. A good file management practice is to name your unique scene file with your name. For example: VittoMainScene
+
 
      2. How to work in Unity with Git
         1. Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
