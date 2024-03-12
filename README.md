@@ -45,7 +45,8 @@ In here we will create accounts all the prerequisite software necessary to work.
 ## Part 2: Install and Setup Software
 To be able to make games collaborative we will need to create all the software necessary to do so. This means: installing a game engine (Unity), a version control (Github), and a way to write code (Visual Studio).
 
-Topics:
+**Topics:**
+
 [A. Install Unity](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#background)
 
 [B. Install Git](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#part-1-account-setup)
