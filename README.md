@@ -138,9 +138,9 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/workin
       * After this you should have the project on your machine
    3. How to make the project appear in Unity Hub
       1. In Unity Hub, click the “Add” button \
-         ![finish_project](images/ignore2.png)
+         ![finish_project](images/windows.png)
       3. Locate the folder that contains the project that you just cloned in the pop-up file explorer. Click Open \
-         ![finish_project](images/ignore2.png)
+         ![finish_project](images/files.png)
       5. Click on the project in Unity Hub to open it. Unity will take a long time to open a project for the first time due to temporary file creation, so be patient.
 
 
