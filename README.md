@@ -1,8 +1,6 @@
 # Git_&_Unity_101
 Want to make game with others? Want to make games by yourself? Want to keep track of your software? Well this guide will let you know how to use Github and Unity, to follow these aspirations.
 
-How to use Git and Unity with a group of Game Makers.
-
 
 
 ## Table of contents
