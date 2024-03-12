@@ -236,11 +236,11 @@ Learn about other tools and resources to take your gamemaking abilities to a new
 
 **Topics:**
 
-* [A. Getting to learn the basics of Unity](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-hardware)
+* [A. Getting to learn the basics of Unity](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#a-getting-to-learn-the-basics-of-unity)
 
-* [B. Task Management](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#b-create-github-account)
+* [B. Task Management](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#b-task-management)
 
-* [C. Communication](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#c-create-unity-account)
+* [C. Communication](https://github.com/vittorio-corbo/Git_-_Unity_101/blob/main/README.md#c-communication)
 
 ### A. Getting to learn the basics of Unity
    * If you are new to Unity and want to learn how to use it, go ahead and start in a classic project.
