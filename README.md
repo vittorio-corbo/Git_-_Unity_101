@@ -171,7 +171,7 @@ Before we can create games, we need to create our project in Unity, and then lin
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 
 ### E. Pull the project
-   1. **Note**: This step is only relevant when you're working on someone else's project and have checked out step 4.
+   1. **Note**: This step is only relevant when you're working on someone else's project and have checked out Part 4.D Collaborative development in the repo.
    2. [Tutorial on how to clone the repository locally](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
       * After this you should have the project on your machine
    3. How to make the project appear in Unity Hub
