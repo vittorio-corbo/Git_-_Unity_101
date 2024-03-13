@@ -207,7 +207,7 @@ Now that everything has been set up, this section will show you will operate wit
            * **Discard**: Discarding changes removes any modifications you've made to your working directory that haven't been committed. This is helpful when you want to reset your files to their last committed state, effectively ignoring any recent, uncommitted edits before pulling updates.
      2. Ensure you have the newly pulled changes present in your Unity project.
         * If unsure reload the scene
-     3. Ensure you have the newly pulled changes present in your Unity project.
+     3. Communicate which scene you will work on
         * Do not work on the same scene!
            * Unity scenes are complex binary files that represent the spatial arrangement and settings of all objects in a particular game scene. Working on the same scene simultaneously will lead to merge conflicts that are hard to manually solve due to the binary nature of these files.
            * It is recommended that each teammate should create their own version of the main scene and work on it. A good file management practice is to name your unique scene file with your name. For example: VittoMainScene
